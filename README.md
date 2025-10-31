@@ -122,3 +122,4 @@ nim,quiz,tugas,uts,uas
 
 📌 **Dibuat dengan Python oleh [Prima Sandhika]**
 Made in Python by [Prima Sandhika]
+
